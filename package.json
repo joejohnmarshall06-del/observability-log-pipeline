@@ -1,0 +1,19 @@
+{
+  "name": "observability-log-pipeline",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Streaming log parser and metrics pipeline with redaction, aggregation windows, and anomaly thresholds.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
